@@ -1,0 +1,6 @@
+  For functional annotation, I recommond to use interproscan(https://github.com/ebi-pf-team/interproscan ),
+  It will scan sequence to a integrate database (CATH, CDD, HAMAP, MobiDB Lite, Panther, Pfam, PIRSF, PRINTS, Prosite, SFLD, SMART, SUPERFAMILY AND NCBIfam) which predictive information about proteins' function .
+
+   For gene structure annotation, I never try deep learning approach about Helixer, but i am expected for its performance. Let's seeing it perfermance. 
+   I used traditionaly annotation piplines, which annnotated genome structure by intergrating three strategies,including de novo, 
+   homology-based and transcriptome-based prediction. Here is my generally workfow.
